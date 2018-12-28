@@ -18,6 +18,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage": "https://marvokdolor.github.io/markdown-previewer-fcc/",
   "browserslist": [
     ">0.2%",
     "not dead",
