@@ -1,12 +1,22 @@
 body {
+    font: Arial;
+    margin: 20px;
+    background-color: ;
+}
+
+#title {
     text-align: center;
+    background-color: #696969;
+    color: white;
 }
 
 #editor {
-    width: 600px;
-    height: 300px;
+    width: 600;
+    height: 400;
 }
 
 div #preview {
-    text-aligb: justify;
+    border: 1px grey solid;
+    padding: 20px;
+    radius: 10px;
 }
