@@ -11,6 +11,6 @@ I also used [Create React App](https://github.com/facebook/create-react-app) to 
 
 - [ ] Next step will be using responsive web design principles and front-end libraries like Bootstrap to make it much more usable and visually appealing.
 
-- [ ] Somewhere along the way, I'll also publish it with gh-pages.
+- [x] Somewhere along the way, I'll also publish it with gh-pages. Ended up [doing this](https://marvokdolor.github.io/markdown-previewer-fcc/) quickly using this great [reference](https://medium.freecodecamp.org/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089).
 
 And of course, by having this hosted on GitHub I'll get some practice using git with the CLI (something I've always been weirdly nervous about).
