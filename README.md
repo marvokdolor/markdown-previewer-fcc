@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 ## Markdown Previewer - [freeCodeCamp Project](https://learn.freecodecamp.org/front-end-libraries/front-end-libraries-projects/build-a-markdown-previewer)
 
 Welcome to my first React project!
