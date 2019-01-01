@@ -1,6 +1,6 @@
 body {
     font: Arial;
-    margin: 20px;
+    margin: 50px;
     background-color:#404040;
 }
 
@@ -18,15 +18,15 @@ body {
 textarea {
     border: 1px grey solid;
     background-color: #DCDCDC;
-    margin: 20px;
+    margin: 50px 25px 50px 25px;
     radius: 10px;
-    width: 100%;
+    width: 90%;
     height: 900px;
 }
 
 div #preview {
     border: 1px grey solid;
-    margin: 20px;
+    margin: 50px 50px 50px 25px;
     padding: 20px;
     radius: 10px;
 }

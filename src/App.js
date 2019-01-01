@@ -87,18 +87,18 @@ A list of exciting things:
   - bullets
     - etc.
 
+A few intriguing bullets:
 1. bullet
 1. bullets
 1. bullets
 1. .
 
-Test text with no markdown.
-> We can do quotes, like this one. _Unfortunately, the greying out effect and indentation don't appear to be working right now._
+> This should be an indented block quote. like this one. _Unfortunately, the greying out effect and indentation don't appear to be working right now._
 
 And **bold** words like that one.
 
 And last, but not least we can embed images:
-![a couple owls](http://clipart-library.com/img/2104391.png)
+![a couple owls](https://openclipart.org/image/200px/svg_to_png/302992/1528491676.png)
 `
 
 
